@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-rotate xmlns:android="http://schemas.android.com/apk/res/android"
+	android:drawable="@drawable/progress_rotate"
+	android:pivotX="50%"
+	android:pivotY="50%" >
+
+</animated-rotate>
+<!-- From: file:/D:/0.GitHub/frameworkxUtils/app/src/main/res/drawable/progress_rotate_large.xml -->
